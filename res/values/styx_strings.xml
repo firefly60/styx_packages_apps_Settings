@@ -66,6 +66,7 @@
     <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
 
     <!-- Hardware info -->
+    <string name="device_market_name">Market Name</string>
     <string name="platform_revision">Platform</string>
     <string name="total_ram">Total RAM</string>
 </resources>
