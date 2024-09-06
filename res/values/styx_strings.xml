@@ -1,0 +1,5 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Styx version in About phone -->
+    <string name="styx_version_title">Styx version</string>
+    <string name="styx_info_default">Unknown</string>
+</resources>
